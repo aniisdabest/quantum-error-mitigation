@@ -9,8 +9,7 @@ Demonstrates error mitigation using Qiskit and Mitiq on a single-qubit circuit.
 1. Run Jupyter Notebook:
 2. Execute cells sequentially
 
-## Results Example
-![Error Mitigation Comparison](results/fidelity_comparison.png)
+
 
 ## Theory
 - **Quantum Noise:** Simulated via depolarizing channels
